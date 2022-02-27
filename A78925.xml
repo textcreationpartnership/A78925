@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new catechisme commanded to be set forth, for the instruction of all those, who still affect a reading ministry, and the Common-prayer; but remaineth opposite to the true Directory of Christ. Wherein is contained, sixe remarkable branches of the Church of England, viz. the great vow in Baptisme, the Creed, the Lords Prayer, and the Ten Commandements, &amp;c. By a reverend divine.</title>
+            <author>Reverend divine.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78925</idno>
+            <idno type="STC">Wing C25</idno>
+            <idno type="STC">Thomason E1186_8</idno>
+            <idno type="STC">ESTC R14257</idno>
+            <idno type="EEBO-CITATION">99859635</idno>
+            <idno type="PROQUEST">99859635</idno>
+            <idno type="VID">111730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1186[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new catechisme commanded to be set forth, for the instruction of all those, who still affect a reading ministry, and the Common-prayer; but remaineth opposite to the true Directory of Christ. Wherein is contained, sixe remarkable branches of the Church of England, viz. the great vow in Baptisme, the Creed, the Lords Prayer, and the Ten Commandements, &amp;c. By a reverend divine.</title>
+                  <author>Reverend divine.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop, dwelling in Grub-street, neer Cripple-Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 22th"; the 7 in imprint date crossed out and replaced with "6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms --  Early works to 1800.</term>
+               <term>Directory for the publique worship of God throughout the three kingdoms of England, Scotland, and Ireland --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111730:1" rendition="simple:additions"/>
+            <p>A NEW CATECHISME COMMANDED To be ſet forth, for the inſtru<g ref="char:EOLhyphen"/>cting of all thoſe, who ſtill affect a rea<g ref="char:EOLhyphen"/>ding Miniſtry, and the Common-Prayer; but remaineth oppoſite to the true Directory of CHRIST.</p>
+            <p>
+               <hi>Wherein is contained,</hi> Sixe remarkable Branches of the Church of <hi>England, viz.</hi> The great Vow in Baptiſme, the Creed, the Lords Prayer, and the Ten Comman<g ref="char:EOLhyphen"/>dements, &amp;c.</p>
+            <p>By a Reverend Divine.</p>
+            <p>
+               <add>march 22<hi rend="sup">th</hi>
+               </add>
+               <hi>LONDON:</hi> Printed by <hi>B. Alſop,</hi> dwelling in <hi>Grub<g ref="char:EOLhyphen"/>ſtreet,</hi> neer <hi>Cripple-Gate,</hi> 1467.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:111730:2"/>
+            <pb n="1" facs="tcp:111730:2"/>
+            <head>A new Catechiſme, &amp;c.</head>
+            <p>
+               <label>Queſtion.</label>
+               <hi>
+                  <seg rend="decorInit">M</seg>Vſt people frequent the preaching of Gods World that they may be ſa<g ref="char:EOLhyphen"/>ved?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label>
+               <list>
+                  <item>1.PAUL ſaid to the Romans, I am ready to preach the Goſpel to you, for I am not aſhamed of the Goſpel of Jeſus Chriſt; for it is the power of God unto Salva<g ref="char:EOLhyphen"/>tion, to every one that beleeveth, <hi>Rom.</hi> 1.15, 16.</item>
+                  <item>2. It pleaſed God by the fooliſhneſſe of prea<g ref="char:EOLhyphen"/>ching, to ſave them that believe, 1 <hi>Cor.</hi> 1.21.</item>
+                  <item>3. Preachers of the Word, are the Miniſters of God, by whom ye believe, that ye may be ſaved by Faith, 1 <hi>Cor.</hi> 3.5.</item>
+                  <item>4. A Preacher by conſtant and painfull teaching of God Word, with a life agreeable to the ſame, ſhall both ſave himſelf, and thoſe that hear him, 1 <hi>Tim.</hi> 4.16.</item>
+                  <item>
+                     <pb n="2" facs="tcp:111730:3"/>
+5. The preaching of the Goſpel, is the Ste<g ref="char:EOLhyphen"/>wardſhip, and Preachers are the Stewards of the grace of God, that bringeth Salvation to all men, <hi>Epheſ.</hi> 3.2.</item>
+                  <item>6. The Divel himſelf did once acknowledge that the Preachers of God Word, were the ſervants of the living God, which ſhew unto us the way of ſalvation, <hi>Act.</hi> 16.17.</item>
+                  <item>7. The Word of God is the Mortal Seed; the Preachers of the Word are the ſpirituall Fathers in Chriſt, preaching of the word is the meanes appointed by God, whereby wee are born again, without which, we cannot be ſa<g ref="char:EOLhyphen"/>ved, as our Saviour Chriſt ſaith, <hi>except a man be born again, he cannot ſee the Kingdom of God,</hi> 1 <hi>Pet.</hi> 1.23, 25.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Shall thoſe people be damned, that will not hear, and obey the Word God ſends among them by Preachers?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. <hi>Moſes</hi> ſaid to <hi>Iſrael;</hi> if thou wilt not hearken to the voyce of the Lord thy God, to do all his commandements, which I command thee this day, all theſe curſes ſhall come upon thee: curſed ſhalt thou be in the City, in the field, in thy basket, in thy ſtore; yea, in all thou ſetteſt thy hand unto for to doe, until thou be deſtroyed &amp;c. <hi>Deut.</hi> 28.15. to the end.</item>
+                  <item>2. Chriſt ſaid unto his Diſciples, when hee
+<pb n="3" facs="tcp:111730:3"/>ſent them forth to preach the Goſpell [Whoſo<g ref="char:EOLhyphen"/>ever ſhal not receive you, nor hear your words when ye depart out of that houſe or city, ſhake off the duſt of your feet for a teſtimony againſt them, that ſhall be more tollerable for <hi>Sodom</hi> &amp; <hi>Gomorrah</hi> in the day of Judgment, then for that Cit. <hi>Mat.</hi> 10.14, 15. <hi>Mark</hi> 6.11.</item>
+                  <item>3. A Prophet ſaid unto King <hi>Amariah,</hi> I know that the Lord hath determined to de<g ref="char:EOLhyphen"/>ſtroy thee, becauſe thou haſt done this, &amp; hath not hearkned to my councell, 2 <hi>Chron.</hi> 25.16. 1 <hi>Sam.</hi> 2.25.</item>
+                  <item>4. The Lord ſaid to the <hi>Prophet Ezekiel,</hi> If thou warn the wicked, and hee turn not from his wickedneſſe, nor from his wicked way, he ſhall dye in his iniquity: to dye in ſin, is to be damned, <hi>Ezec.</hi> 3.19.</item>
+                  <item>5. <hi>Paul</hi> ſaid to certaine Jewes, ye put the Word of God from you, and judge your ſelves unworthy of eternall life, <hi>Act.</hi> 13 46.</item>
+                  <item>6. <hi>Eſa</hi> ſaid of ſome people, as the fire de<g ref="char:EOLhyphen"/>voureth the ſtubble, and the flame conſumeth the chaffe; ſo their root ſhall be rottenneſſe, &amp; their bloſſome ſhal go up as duſt; becauſe they have caſt away the law of the Lord, and de<g ref="char:EOLhyphen"/>ſpiſed the word of the holy one of Iſrael.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>May not we be ſaved by our good prayers at home, although we doe not heare Gods Word
+<pb n="4" facs="tcp:111730:4"/>ſpoken by the Preachers amongst us?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. He that turneth this eare away from hearing the Law, even his prayer ſhall been an abomination, <hi>Prov.</hi> 28.9.</item>
+                  <item>2. The word of the Lord came to <hi>Zacha<g ref="char:EOLhyphen"/>riah,</hi> but the people refuſed to hearken, &amp; pul'd away the ſhoulder, and ſtopped their ears, that they ſhould not hear, yea, they made their hearts, as an adamant ſtone, leaſt they ſhould hear the Law, and the words which the Lord ſent in his ſpirit by the former Prophets; therefore came their a great wrath from the Lord, and therefore it is come to paſſe, that as he cryed, and they would not hear; ſo they cry<g ref="char:EOLhyphen"/>ed, and I would not heare, ſaith the Lord of Hoſts, <hi>Zach.</hi> 7.8, 11, 12, 13.</item>
+                  <item>3. How can you expect God ſhould heare your prayers twice a day, when as ye refuſe to hear Gods word once a week.</item>
+                  <item>5. Our perſons and our prayers are accepta<g ref="char:EOLhyphen"/>ble to God only in Chriſt; and therefore how can thoſe people hope, that God will hear their prayers, when they will not hear Chriſt in the preachers of his word, but deſpiſe him &amp; them, as Chriſt taught his Diſciples when hee ſent them forth to preach the Goſpel, <hi>He that hea<g ref="char:EOLhyphen"/>reth you, heareth me, and he that deſpiſeth you, de<g ref="char:EOLhyphen"/>ſpiſeth me, &amp;c. Heb.</hi> 13.15.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:111730:4"/>
+               <label>Q.</label> 
+               <hi>Shall thoſe people be damned that liveun<g ref="char:EOLhyphen"/>ler a wicked Minister, that doth teach them er<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs and falſe Doctrines?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. The Lord himſef anſwers, the leaders of this people cauſe them to erre, and they that are led of them are deſtroyed, <hi>Eſa</hi> 9.14, 15, 16.</item>
+                  <item>2. A wonderfull and horrible thing is done in the Land, the Prophets propheſie falfly, the Prieſts bear rule by their meanes, any people love to have it ſo, and what will they do in the and thereof, <hi>Ier.</hi> 5.30, 31.</item>
+                  <item>3. Chriſt alſo gives an anſwer, Wot be to you Scribes and Phariſees, for ye compaſſe Sea and land to make one <hi>Proſelite,</hi> and when hee is made, ye make him two-fold more the child of hell, then your ſelves, <hi>Mat.</hi> 23.15.</item>
+                  <item>4. About 400. Prophets, did perſwade <hi>Ahab</hi> the King of Iſrael, to go to battle againſt <hi>Ra<g ref="char:EOLhyphen"/>moth Gilead,</hi> promiſing him victory, but hee was there ſlain, 1 <hi>King.</hi> 22.</item>
+                  <item>5. Antichriſt that man of ſinne, and child of perdition, and thoſe that are finally deceived with his falſe doctrines, and miracles, ſhall bee damned, and caſt into the lake that burneth with fire and brimſtone day &amp; night for ever. 2 <hi>Theſ.</hi> 2.3. to 13.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Are thoſe people in danger to be damned, who live under an ignorant or wicked Miniſter,
+<pb n="6" facs="tcp:111730:5"/>that cannot or will not teach the Word of God</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1. Such people are in great danger to be damned; Chriſt doth anſwer, <hi>if the blind doth lead the blind, both ſhall fall into the ditch. Mat.</hi> 15.14.</item>
+                  <item>2. The Lord faith to every Miniſter, as to the Prophet <hi>Ezechiel,</hi> I have made thee a Watch<g ref="char:EOLhyphen"/>man to the people, and therefore hear the word of my mouth, and give them warning from me, when I ſay unto the wicked, thou ſhalt ſurely dy, &amp; thou giveſt him not warning, nor ſpeakeſt, to warn the wicked from his wicked way to ſave his life, The ſame wicked man ſhall dy in his iniquity; but his bloud will I require at thy hands: to dy in ſinne, is to bee damned <hi>Ezek</hi> 3.17<g ref="char:punc">▪</g> 18.</item>
+                  <item>3. The Lord ſaith in <hi>Eſa</hi> of ſuch people: All ye Beaſts of the field ſhal come to devour; yea all the Beaſts in the Forreſt: His watch men are blind, they are all ignorant, they are like dumb dogs, they cannot bark and their ſhep<g ref="char:EOLhyphen"/>heards cannot underſtand <hi>Eſa</hi> 56.9, 13, 11.12.</item>
+                  <item>4. Where there is no viſion; <hi>that is,</hi> no word of God preached or taught, the people periſh, <hi>Prov.</hi> 29.18.</item>
+                  <item>5. For a long time Iſrael hath been without God without a teaching Prieſt, and without the Lawes, 2 <hi>Chron.</hi> 15 13.</item>
+                  <item>
+                     <pb n="7" facs="tcp:111730:5"/>
+6. Behold the dayes come, ſaith the Lord, that I will ſend a famine in the Land, not a famine of bread, nor a thirſt of water, but of hearing the Word of the Lord, and they ſhall wander from Sea to Sea, and from the North, even to the Eaſt, they ſhall run to and fro, to ſeek the Word of the Lord, and ſhall not finde it, <hi>Amos</hi> 8.11, 12. <hi>Mal.</hi> 2.7,</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>But ſome people will ſay, we have a Mini<g ref="char:EOLhyphen"/>ſter that doth reade the holy Scriptares and Com<g ref="char:EOLhyphen"/>mon-prayer amongſt us, may not we certainly hope to be ſaved as well as othurs, though we have no Preacher, and go not to Sermons, and though wee are not taught the Word of God as others are?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+1. God doth command and commend the reading &amp; ſearching of the holy Scriptures, by all ſorts of people at all times, and hath promiſed his bleſſing upon it, <hi>Deut.</hi> 17.19.</p>
+            <p>But God did never appoint, or approve in the Law or Goſpel any men to be Prieſts or Mi<g ref="char:EOLhyphen"/>ſters of his Word and Sacraments unleſſe they were able and willing to teach the people the Word of God.</p>
+            <p>For, the Lord ſaith in time of the Law. Firſt, the Prieſts lips ſhall keep knowledge, and the people ſhould ſeek the law at his mouth, <hi>Mal.</hi> 2.7. this was their duty, <hi>Deut.</hi> 30.10. and pra<g ref="char:EOLhyphen"/>ctice, 2 <hi>Chron.</hi> 7.9. <hi>Nehem.</hi> 8.8. Secondly, I
+<pb n="8" facs="tcp:111730:6"/>will give them Paſtors, according to my own heart, which ſhall feed them with knowledge, and underſtanding, <hi>Ier.</hi> 3.14. Thirdly, becauſe thou haſt rejected knowledge, I wil alſo re<g ref="char:EOLhyphen"/>ject thee, that thou ſhalt be no Prieſt to me, <hi>Hoſea</hi> 4.6. Fourthly, the Lord calleth ignorant Miniſters blind Watch-men, dumb-dogs, foo<g ref="char:EOLhyphen"/>liſh and idle Shepheards, <hi>Eſa</hi> 56.10.</p>
+            <div type="part">
+               <head>And in the time of the Goſpel.</head>
+               <p>Firſt, Chriſt himſelf was ſent to preach the Goſpel, <hi>Luke</hi> 4.18. this was his practiſe, <hi>Mat.</hi> 9.35. <hi>Mat.</hi> 26.55.</p>
+               <p>Secondly, as Chriſt himſelf was ſent, ſo hee ſent his Apoſtles to preach the Goſpel to every creature to teach all Nations, <hi>Iohn</hi> 20.21.</p>
+               <p>Thirdly, as the Apoſtles themſelves were ſent to teach, and preach the Goſpel; ſo they ſent other Miniſters to ſucceed them, and appoint<g ref="char:EOLhyphen"/>ed and gave commandement, that ſuch ſhould be made and honoured as the Miniſters of Chriſt that were able to teach others, to preach the Goſpel, to divide the Word of God aright, to feed the people with knowledge and under<g ref="char:EOLhyphen"/>ſtanding of Gods will revealed in his Word, <hi>Acts</hi> 20.28.</p>
+               <p>Secondly, the Church of England doth or<g ref="char:EOLhyphen"/>dain, or appoint, no men to be Miniſters of the Word of God and Sacraments, and to have
+<pb n="9" facs="tcp:111730:6"/>the ſpiritual charge of any people, but ſuch that upon tryal, are ſound to be both able and wil<g ref="char:EOLhyphen"/>ling to teach the people the Word of God; for we reade</p>
+            </div>
+            <div type="part">
+               <head>In the Book ſet forth for ordering and ma<g ref="char:EOLhyphen"/>king Biſhops, Prieſts, and Deacons.</head>
+               <list>
+                  <item>The Biſhop firſt knowing, either by him<g ref="char:EOLhyphen"/>ſelfe, or by ſufficient teſtimony, any perſon to be of vertuous converſation and after due ex<g ref="char:EOLhyphen"/>amination and tryal, finding him to be learned in the latine tongue, and ſuficiently inſtructed in the holy Scriptures, may admit a Deacon in the preface.</item>
+                  <item>2. It appertaineth to the Office of a Deacon to inſtruct the youth in the Catechiſme, &amp; to preach, if he be admitted by the Biſhop.</item>
+                  <item>3. The Biſhop delivers to every one that is made Deacon, the New Teſtament; ſaying, Take thou authority to read the Goſpel in the Church of God, and to preach the ſame, if thou be thereto ordinarily commanded.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>And concerning Prieſts.</head>
+               <list>
+                  <item>Firſt, Prieſts cannot by any other meanes compaſſe the doing of their worke, pertaining to the ſalvation of Man; but with doctrine &amp; exhortation taken out of the holy Scriptures, and with a life agreeable to the ſame.</item>
+                  <item>Secondly, he that is to be made Prieſt, ſaith,
+<pb n="10" facs="tcp:111730:7"/>he is determined by Gods grace with the Scri<g ref="char:EOLhyphen"/>ptures, to inſtruct the people committed to his charge, and he doth promiſe by the Lords help to teach the people the Doctrine, Sacraments, and Diſcipline of Chriſt.</item>
+                  <item>Th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdly, the Biſhop delivers to every one that is made Miniſter, a Bible; ſaying, <hi>Tak<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thou authority to preach the Word of G<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d and to mini<g ref="char:EOLhyphen"/>ſter the holy Sacraments in the Congregation, where thou ſhalt be ſo appointed.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>And concerning Biſhops.</head>
+               <p>
+                  <list>
+                     <item>Firſt, he that is to be made Biſhop, ſaith that he is determined by Gods grace with the Scri<g ref="char:EOLhyphen"/>ptures, to inſtruct the people committed to his charge: He doth promiſe by the help of God, faithfully to exerciſe himſelf in the holy Scri<g ref="char:EOLhyphen"/>ptures, ſo as he may be able by them, to teach and exhort with wholeſome Doctrine; and to withſtand and convince the gain-ſayers.</item>
+                     <item>Secondly, the Archbiſhop delivers to him that is made a Biſhop, a Bible, ſaying; <hi>G<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ve heed unto reading, exhortation, and doctrine; think up<g ref="char:EOLhyphen"/>on thoſe things contained in this booke, be diligent in them, that the increaſe, comming thereby, may be manifeſt to all men; take heed unto thy ſelf, and unto teaching, and be diligent in doing them; for by doing this, thou ſhalt ſave thy ſelfe, and thoſe that hear thee; be to the flock of Chriſt a Shep<g ref="char:EOLhyphen"/>heard,
+<pb n="11" facs="tcp:111730:7"/>and not a Wolfe; feed them, and devour them not.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>And in the Eccleſiaſticall Canons.</head>
+               <p>
+                  <list>
+                     <item>Firſt no Biſhop ſhall admit any perſon into ſacred Orders, to be Deacon or Prieſt, except he hath taken ſome degrees of School in either of the Univerſities of this Realm, or at the leaſt, except he be able to yeeld an account of his Faith in Latine, according to the Articles of Religion, approved in the Synode of the Bi<g ref="char:EOLhyphen"/>ſhops and Clergy of this Realm, 15.62. and to confirme the ſame by ſufficient teſtimony out of the Holy Scriptures, <hi>Canon.</hi> 34.</item>
+                     <item>Secondly, no Biſhop ſhall inſtitute any to a Benefice, except he ſhal appear upon due exa<g ref="char:EOLhyphen"/>mination to be worthy of his Miniſtery, <hi>Can.</hi> 39.</item>
+                     <item>Thirdly, no licenſe or diſpenſation for the keeping of more Benefices then one, ſhall be granted to any, but alwayes provided, that he have under him in the Benefice where he doth not reſide a Preacher lawfully allowed, that is able ſufficiently to teach and inſtruct the peo<g ref="char:EOLhyphen"/>ple, <hi>Can.</hi> 41, 43, 47.</item>
+                     <item>Fourthly, every beneficed man, having no lawfull impediment, ſhall preach one Sermon every Sunday in the year, wherein he ſhall ſo<g ref="char:EOLhyphen"/>berly and ſincerely divide the Word of Truth,
+<pb n="12" facs="tcp:111730:8"/>to the glory of God, and beſt edification of the people, <hi>Canon</hi> 45.</item>
+                     <item>Fifthly, every Perſon, Vicar or Curate, upon every Sunday and Holiday before Evening Prayer, ſhal, for half an hour, or more examine and inſtruct the youth and ignorant perſons of his Pariſh, in the Ten Commandements, the Articles of Beliefe, and in the Lords Prayer, and ſhall diligently teach them the Catechiſm, and if any Miniſter ſhall wilfully neglect his duty herein, he is firſt to be reproved ſharply by the Biſhop next to be ſuſpended, and the third time excommunicated, and ſo remaine untill he be reformed, <hi>Can.</hi> 59. So that a Mini<g ref="char:EOLhyphen"/>ſter wilfully &amp; obſtiaately neglecting to teach and inſtruct his Pariſhioners, is not after due execution of thoſe Eccleſiaſticall cenſures up<g ref="char:EOLhyphen"/>on him, to doe any thing appertaining to the Office of a Miniſter, but to remain as a ſuſpen<g ref="char:EOLhyphen"/>ded and excommunicated perſon, not fit for a<g ref="char:EOLhyphen"/>ny good Chriſtians company.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>And in the Book of Homilies.</head>
+               <p>
+                  <list>
+                     <item>Firſt, the Church is the place where the lively Word of God (&amp; not Mans invention) ought to be read and taught, and with all diligence the people are bound to reſort thither.</item>
+                     <item>Secondly, by theſe places, <hi>Act.</hi> 13.5, 14, 15. <hi>Act.</hi> 15.21. <hi>Act.</hi> 17.2. Ye may ſee the uſage
+<pb n="13" facs="tcp:111730:8"/>of reading the holy Scriptures among the Jews in their Synagogues every Sabbath Day, and Sermons uſually made upon the ſame. How much more then is it convenient, that the Go<g ref="char:EOLhyphen"/>ſpel of our Saviour Chriſt ſhould be expound<g ref="char:EOLhyphen"/>ed unto us that are Chriſtians in our Chur<g ref="char:EOLhyphen"/>ches, eſpecially our Saviour Chriſt and his A<g ref="char:EOLhyphen"/>poſtles, allowing this moſt godly and neceſſa<g ref="char:EOLhyphen"/>ry uſage, and by their examples confirming the ſame in the Homily of the right uſe of the Church, <hi>Pag.</hi> 3, 4.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>In the Book of Common-Prayer.</head>
+               <p>
+                  <list>
+                     <item>Firſt, every Miniſter that adminiſters the Sa<g ref="char:EOLhyphen"/>craments of the Lords Supper, and every Mi<g ref="char:EOLhyphen"/>ſter that is appointed to viſite the ſick, ought to be a diſcreet and learned Miniſter of Gods Word, able to give ghoſtly councel, adviſe and comfort, that mens doubtfull and diſtreſſed conſciences may be quieted and relieved. In the ſecond exhortation before the Communi<g ref="char:EOLhyphen"/>on. In the viſitation of the ſick. In the Rubrics for the Communion of the Sick.</item>
+                     <item>Secondly, it is the duty of Godfathers and Godmothers, to call upon the children that are baptized to hear Sermons, ſo ſoon as they ſhal<g ref="char:EOLhyphen"/>be able to learn, that they may the better know this Vow in Baptiſme, the Creed, the Lords Prayer, the Ten Commandements, and all o<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:111730:9"/>things which chriſtian people ought t<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> know and believe, to their ſoules health, th<gap reason="illegible" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> laſt exhortation after Baptiſme.</item>
+                  </list>
+               </p>
+               <p>You are not to thinke, that the hearing th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reading of Common prayer is ſufficient, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your ſalvation, without the preaching, or tea<g ref="char:EOLhyphen"/>chin of the word of God; for, Chriſt himſelfe ſaith, <hi>Not every one that ſaith unto me, Lord<g ref="char:punc">▪</g> Lord, ſhall enter into the Kingdome of God, but he that doth the will of my Father which is in Hea<g ref="char:EOLhyphen"/>ven, Matth.</hi> 7.21.</p>
+            </div>
+            <closer>From God be the Bleſſing: To God be all the Glory, through Ieſus Chriſt. <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
